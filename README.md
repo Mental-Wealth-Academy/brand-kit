@@ -1,5 +1,6 @@
 
-![12412411231](https://github.com/user-attachments/assets/97ad85e5-681f-4710-a90f-b14761dd221d)
+<img width="1500" height="500" alt="MentalWealthAcademybanner" src="https://github.com/user-attachments/assets/a432a639-3897-4022-aeda-02b8add02519" />
+
 
 
 # Mental Wealth Academy brand-kit
