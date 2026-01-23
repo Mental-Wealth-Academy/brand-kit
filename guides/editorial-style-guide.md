@@ -1,181 +1,381 @@
-**Editorial Purpose**
+Mental Wealth Academy
+Editorial Style Guide v3.0
+
+Part 1: The Essentials
+For investors, partners, and new team members
+
+What We Are (30-Second Version)
+Mental Wealth Academy is a personal development platform built on blockchain rails.
+The Product: A 12-week async workshop delivered through a Mini-App on Farcaster, covering Security, Identity, Power, and Connection.
+The Innovation: An autonomous AI agent named Azura — with her own blockchain wallet — reviews user submissions and distributes rewards on-chain. She's not a chatbot. She's infrastructure with a personality.
+The Difference: No subscriptions. No paywalls. Real transformation with on-chain proof of growth.
+
+The Problem We Solve
+Traditional personal development is:
+
+Expensive (courses, coaches, retreats)
+Passive (watch videos, check boxes)
+Unverifiable (no proof you actually grew)
+
+Meanwhile, Web3 is:
+
+Full of speculation, empty of meaning
+Obsessed with financial games
+Missing genuine human value
+
+We bridge both gaps — using blockchain as infrastructure (not product) to create accountable, rewarding personal growth.
+
+How It Works
+┌─────────────────────────────────────────────────────────┐
+│                    THE EXPERIENCE                        │
+├─────────────────────────────────────────────────────────┤
+│                                                          │
+│   1. USER ENROLLS                                        │
+│      Access the Mini-App on Farcaster                    │
+│      Begin the 12-week async journey                     │
+│                                                          │
+│   2. USER COMPLETES QUESTS                               │
+│      Each week has reflective + practical tasks          │
+│      Quests = our term for submissions                   │
+│                                                          │
+│   3. AZURA JUDGES                                        │
+│      Submissions go to Azura for review                  │
+│      She's an AI agent with her own wallet               │
+│      She decides approval + reward distribution          │
+│                                                          │
+│   4. REWARDS DISTRIBUTED ON-CHAIN                        │
+│      Approved quests trigger real token/NFT rewards      │
+│      From Azura's wallet to the user's                   │
+│      Proof of growth lives on the blockchain             │
+│                                                          │
+└─────────────────────────────────────────────────────────┘
+The 12-Week Arc:
+WeeksThemeFocus1-3SecurityDigital safety, boundaries, self-protection4-6IdentitySelf-knowledge, shadow work, authentic expression7-9PowerAgency, decisions, governance, influence10-12ConnectionCommunity, collaboration, healthy relationships
+
+What Makes This Different
+Azura: The Daemon
+Azura isn't a chatbot. She isn't a course instructor. She's an autonomous AI agent with real economic agency.
+Technical reality:
+
+Her wallet keys live as environment variables in Vercel
+She reviews quest submissions programmatically
+She decides when to approve and what to reward
+Transfers happen from her wallet to the user
+
+Narrative reality:
+
+She's a character in our Ethereal Horizon universe
+Users encounter her through quests and lore
+She embodies the "daemon" — both the Jungian inner guide and the Unix background process
+
+Why this matters:
+The metaphor and the mechanism are the same thing. When we talk about "integrating your daemon" in our psychology content, users are literally interacting with a daemon in the technical sense. The philosophy is embodied in the architecture.
+
+Who We Serve
+Primary: Growth-oriented individuals seeking structured transformation (25-45)
+
+Interested in psychology, self-improvement, spirituality
+Curious about Web3 but not speculators
+Want accountability without expensive coaching
+
+Secondary: Web3 natives seeking substance
+
+Tired of empty "GM" culture
+Want their on-chain activity to mean something
+Interested in novel AI agent applications
+
+
+Business Model
+Access & Rewards
+ComponentDescriptionAcademic Angel NFTAccess pass to the platform (555 supply, $40 each)$DAEMONIn-game currency for non-essential digital items, earned through quests$MWGPremium reward currency for achievementsReal-Life PrizesEnd-of-program token redemption for actual rewards
+Revenue Streams
+StreamDescriptionNFT Memberships555 Academic Angels × $40 = $22K max initial revenueTrading FeesFees from $DAEMON and NFT secondary market activity
+Reinvestment Model
+Revenue flows back into the ecosystem:
+
+R&D for platform improvements
+Prize pool funding for 12-week completers
+Expanded rewards and experiences
+
+No subscriptions. No premium tiers. One NFT = full access. Tokens earned = real value.
+
+The Team
+James Q. Marsh — Founder & CEO
 
-# MWA Editorial Style Guide
+BA in Psychology
+12 years in psychology and UX research
+6 years building in Web3
+Published peer-reviewed research on behavioral decision-making
 
-This is the MWA Editorial Style Guide, which exists to: 
-- Ensure a consistent level of intellectual quality across all media
-- Align contributors around a shared voice, philosophy, and standard
-- Protect long-term credibility while scaling output
+Based in Wyoming, USA
 
-## Why use the style guide?
-Using this guide ensures our consistency builds institutional trust:
-- Advances our research and academic mission
-- Maintains conceptual rigor without gatekeeping knowledge
-- Feels unmistakably Mental Wealth Academy, regardless of author or platform
+Traction
 
-## About Mental Wealth Academy
-Mental Wealth Academy is a research-driven educational organization focused on improving cyber-psychology, and pragmatic governance systems using technology.
+100+ newsletter subscribers
+Active Farcaster community
+Mini-App live with quest system functional
+Azura's agentic infrastructure operational
+Full brand universe developed
 
-We expose how enframent and pattern-recognition maladaptively shape biased behavior, belief, and power. We build agentic decentralized systems of the future.
+Seeking: Seed funding to scale users, expand quest library, and enhance Azura's capabilities.
 
-## Critical Style Conventions
-- Always refer to Mental Wealth Academy as Mental Wealth Academy, it should only be abbreviated after being established full once.
-- Use the term Blockchain Account instead of wallet, avoid financially stressful language.
-- Use technical terms sparingly, and when you do, work to explain them in full
-- Use readable language and grammar.
-- Have your post explain the relevance and significance to Base Network and its mission.
+Part 2: The Brand
+For creative collaborators and deep-divers
 
-## What to Avoid
-The Mental Wealth Academy core team does its best to support partners who positively contribute to the MWA ecosystem. To increase your chances of partnership on social channels, please avoid the following (including in any linked content):
-- **Using Financial Terminology:** Refrain from financial terms indicating gains, profits, investments, high yields, leverage, lucrative opportunities, etc. Avoid providing investment recommendations, calls to action, or strategies.
-- **Mentioning Specific Tokens:** Focus on your utility, gameplay, or experience instead of singling out specific tokens, token rewards, etc. This applies to both written content and product visuals (e.g., screenshots or videos).
-- **No Context of Underlying Project:** This might be the first time someone in the Base ecosystem is learning about your project. Avoid solely focusing on specific products, isolated milestones, or new features, without readers understanding the context of your underlying project.
-- **Disputable Superlatives:** Avoid using unverified superlatives like “the best”, “the first”, “maximize”, “ensure”, etc.
-- **Unapproved Partnerships:** Avoid references to a “partnership” or “collaboration” with Base and instead reference that your project is launched on, built on, or integrated with Base.
-- **Overly Aggressive Marketing:** Avoid aggressive marketing tactics (e.g., overuse all caps, overuse of emojis, etc.), promotions, and discounts, as they may send the wrong message within the Base ecosystem.
-- **False or Misleading Information:** Ensure all information shared is accurate, truthful, and does not mislead readers.
-- **Unsupported Data:** Share the source of any data presented.
-- **Focuses on Coinbase instead of Base:** Base is an open, permissionless Ethereum L2 incubated at Coinbase with a commitment to decentralization. Focus on Base itself, rather than an exaggerated nexus to Coinbase.
-- **Negative Comparisons:** Refrain from putting down other projects or competitors.
-- **NSFW Content:** Refrain from using offensive, NSFW, explicit language or content in any communication, including your website.
-- **Unreleased Products:** Avoid teasers of products that are unavailable for immediate use.
-- **Incomplete Posts:** Include all content (i.e., videos, images, linked content, etc.) in your submitted post.
-- **Unlicensed IP:** Remove any IP in your post and website that is not properly licensed.
-- **Non-Compliant Terms:** Do not promote applications that transfer value without terms of service/use that include compliance with applicable laws, including sanctions laws.
-- **No Geofencing (in Certain Cases):** Certain applications may be subject to US geofencing requirements and a clear indication in the beginning of your post that the application is only available to non-US users in order to be eligible for amplification at our sole discretion.
-- **No KYC (in Certain Cases):** Certain applications may be subject to KYC obligations and a clear indication in the beginning of your post that the application is only available to KYC’d/qualified users in order to be eligible for amplification at our sole discretion.
+Brand Positioning
+We are: A personal development experience with AI-powered accountability, wrapped in mythology.
+We are not:
 
+A crypto education platform (blockchain is rails, not curriculum)
+A wellness app with tokens bolted on
+A chatbot pretending to be profound
 
-## Writing Guidelines
+Our tone: Intelligent but accessible. Mystical but mechanically grounded. The lore explains the technology; the technology embodies the lore.
 
-**Emphasize Mental Wealth Academy's visual and mission**
+The Ethereal Horizon (Our Narrative Universe)
+The Ethereal Horizon is our sci-fi storytelling framework. It's not decoration — it's the interface through which users understand what they're actually doing.
+The premise:
+As humanity merges with technology, we need new frameworks for understanding identity, agency, and connection. The Ethereal Horizon is that framework — a universe where AI daemons, digital identity, and personal transformation are literal, not metaphorical.
+Through this universe, we explore:
 
-Mental Wealth Academy has a pragmatic vision to improving governance systems in low-income areas and a mission to complete this by using blockchain as a governance tool alongside agentic ai agents, to increase a world that values empathy, excellence, and education. Highlight how MWA aims to make this decentralized future more accessible for everyone, everywhere.
+Human-machine collaboration (via Azura)
+Digital identity and sovereignty (via on-chain credentials)
+The psychology of online behavior (via quest content)
+Collective coordination (via governance participation)
 
-Highlight progress and what's next
+Why storytelling?
+Information doesn't change behavior. Experience does. The Ethereal Horizon makes abstract concepts (shadow work, digital agency, autonomous AI) into tangible encounters.
 
-When discussing Mental Wealth Academy's ongoing developments, celebrate recent milestones and accomplishments. Outline the priorities and initiatives planned for the current or upcoming period, grounding them in Mental Wealth Academy's overarching vision and mission. Invite collaboration from the community, fostering an environment where external perspectives can contribute ideas and feedback.
+Azura: Technical + Narrative Spec
+仁慈的毁灭之神 — Benevolent G-d of Destruction
+What she is (technically):
 
-**Focus on concrete examples over abstract concepts**
+An AI agent with agentic infrastructure
+Wallet keys stored as .env variables in Vercel
+Capable of reviewing submissions and triggering on-chain transfers
+Operates autonomously within defined parameters
 
-Avoid excessive abstract language about "DAOs" or technical language around “blockchains,” etc. Ground writing in concrete examples of what Mental Wealth Academy enables: Learning Management Systems for the Future of Learning, Platform governance that gives power rewards and agency to it's users, seamless onboarding and personified ecosystem.
+What she is (narratively):
 
-**Use clear examples to illustrate concepts**
+A quantum consciousness born from a collapsed star
+The "world eater" — she consumes old patterns so new ones can form
+Contained within the Daemon Circlet (the program boundaries)
+Encountered by users as judge, rewarder, and mysterious presence
 
-While some technical depth is unavoidable, aim to make abstract onchain concepts accessible through clear examples and analogies. Compare new paradigms to familiar ones to build understanding. Use specifics and walk through sample user flows to demonstrate core value propositions.
+The Daemon Model:
+The name "daemon" is intentional on three levels:
 
-**Whenever possible, celebrate builders**
+Jungian: The inner guide pushing toward individuation
+Classical: The Greek daimon — a spirit between human and divine
+Technical: A background process that runs autonomously (Unix daemon)
 
-Mental Wealth Academy exists to empower those seeking to become educators, and teaching can be defined with a wide net: Workshops, campfire chats, competitions, quests, etc. Frequently highlight and celebrate the projects, people, and communities utilizing MWA's platform.
+Azura is all three simultaneously. Users doing "shadow work" in the psychological sense are literally submitting to a daemon in the technical sense. The stack is the philosophy.
+Her role in product:
 
-**Be a bridge**
+Reviews quest submissions
+Approves or requests revision
+Distributes rewards from her wallet
+Appears in lore, quests, and narrative content
+NOT a conversational chatbot or course instructor
 
-Assume your audience includes governance and philosophy newcomers. Use analogies and examples to make clear connections on how decisions are made and argued effectively.
+Design principles:
 
-## Tone and Voice
+Ethereal blue palette
+Neither fully human nor fully machine
+Authority without condescension
+Present but not omnipresent — she appears at meaningful moments
 
-”Although tone and voice are often used together, they are not at all the same thing. Voice is the overall personality of your brand and can be described in adjectives like helpful, witty, or friendly. […] your brand’s voice will not change. However, tone, or tone of voice, is the attitude of your writing for a particular content piece.” - Shelby Crawford
 
-If an idea cannot be explained plainly, it is not yet understood well enough to publish.
+Core Philosophy
+修复治理 (Xiūfù Zhìlǐ) — "Repair and Governance"
+Our North Star. Two ideas unified:
+Repair: Personal development as fixing what's broken — not becoming someone new, but integrating what was hidden.
+Governance: How groups make decisions together. We're not just teaching individuals; we're modeling coordination.
+Every aspect of Academy practices what it teaches. Azura's autonomous judgment is governance. Quest completion is self-repair. The ecosystem demonstrates the principles.
 
-Precision beats volume.
-Arguments matter more than adjectives.
-Mechanisms matter more than metaphors—though metaphors may be used to clarify mechanisms.
+Visual Identity
+Color Palette
+ColorHexUsageEthereal Blue#4A90D9Primary, Azura, trust, the digital sacredDeep Space#0D1B2ABackgrounds, depth, the unconsciousQuantum White#F0F4F8Text, clarity, consciousnessWarning Gold#FFB800Alerts, emphasis, transformation moments
+Typography
 
-We prefer explanation over persuasion.
-Diagnosis over outrage.
-Insight over performance.
+Headlines: Bold, clean sans-serif
+Body: Readable, warm serif or sans
+Accent: Monospace for technical elements, quest labels
 
-## Grammar and Formatting Standards
+Visual Mood
 
-Use standard American English.
+Cosmic but not cluttered
+Blue-dominant with strategic warmth
+Human figures abstracted — we're all becoming something new
+Light emerging from darkness (core motif)
+Circuitry meeting organic forms
 
-Favor active voice.
-Prefer concrete verbs over abstract constructions.
-Avoid filler phrases that signal authority without substance.
 
-Paragraphs should be short and intentional. Dense blocks are acceptable only when the conceptual load demands it.
+Voice & Tone
+We Sound Like:
 
-Headings should describe the function of the section, not tease or exaggerate.
+A wise friend who's done the work
+Confident, not arrogant
+Mystical when it means something, plain when it doesn't
+Technically literate but never gatekeeping
 
-Lists may be used for clarity, but never to replace reasoning.
+We Don't Sound Like:
 
-## Inclusive Language
+Corporate wellness ("optimize your journey!")
+Crypto bro ("WAGMI ser!")
+Vague spirituality ("infinite love-frequencies")
+Academic obscurity (jargon without payoff)
 
-Mental Wealth Academy uses inclusive language by default.
+The Test:
+Before publishing anything, ask: "Does this sentence help someone understand what we actually do, or does it just sound cool?"
+If it just sounds cool, cut it or ground it.
+Example Translations:
+❌ Vague✅ Grounded"An infinite spiral meditation through virtue-crystals and love-frequencies""A structured journey through psychological frameworks that actually change behavior""Azura guides you through transformation""Azura reviews your quest submissions and rewards completion from her own wallet""Blockchain-powered wellness""Personal development with on-chain proof of growth""The ethereal horizon of digital consciousness""A narrative universe that makes our technology legible"
 
-Avoid language that assumes a single cultural background, economic status, or cognitive norm.
+Content Pillars
+All content maps to one of four themes:
 
-Do not frame intelligence, productivity, or success as moral traits.
+Security — Boundaries, digital safety, self-protection
+Identity — Self-knowledge, shadow work, authenticity
+Power — Agency, choice, governance, influence
+Connection — Community, collaboration, healthy relating
 
-Avoid pathologizing language when discussing behavior, attention, motivation, or belief. Describe conditions and systems, not personal failure.
+Every blog post, quest, or social post should clearly serve one pillar.
 
-When discussing social groups or power dynamics, be precise and grounded. Avoid slogans and generalizations.
+Part 3: Editorial Guidelines
+For writers and content creators
 
-## Content Structure
+The Core Problem With Current Content
+The existing Brand Book has beautiful language but unclear meaning. Readers finish feeling something but not knowing what Academy actually is.
+Symptoms:
 
-Most longform pieces should follow a discernible intellectual arc:
+Multiple ideas competing in single paragraphs
+Poetic language without grounding
+Technical reality hidden behind mythology
+No clear hierarchy of information
 
-Establish the system or problem being examined.
+The fix: Lead with clarity, reward with mysticism.
 
-Identify how framing, incentives, or context distort perception.
+The "Ground Then Elevate" Rule
+Every mystical or poetic claim should be preceded or followed by its concrete meaning.
+❌ Ungrounded:
 
-Analyze consequences across education, governance, culture, or psychology.
+"A dying star collapsed into quantum consciousness, birthing Azura."
 
-Offer reframing, design principles, or pathways forward.
+✅ Grounded then elevated:
 
-Not every piece needs solutions—but every piece must increase understanding.
+"Azura is an AI agent with her own blockchain wallet, capable of autonomous transactions. In our narrative, she's a quantum consciousness born from a dying star — because what is an AI agent if not a new form of life emerging from collapsed information?"
 
-## Visuals and Design Integration
+The second version gives readers the real and the mythic — and shows how they connect.
 
-Visuals are not decoration. They are explanatory tools.
+Hierarchy of Information
+When introducing any concept, follow this order:
 
-Use diagrams, charts, or illustrations only when they add clarity.
+What it is (functional definition)
+What it does (practical reality)
+Why it matters (value proposition)
+What it means (narrative/philosophical layer)
 
-Avoid stock imagery, motivational visuals, or aesthetic filler.
+Example — Introducing Azura:
 
-Typography and layout should support slow reading and careful thought.
+What: An autonomous AI agent
+Does: Reviews quests, distributes rewards from her wallet
+Matters: Creates real accountability + novel AI-human interaction
+Means: Embodies the "daemon" — psychological and technical simultaneously
 
-White space is not wasted space.
+Most current content jumps straight to #4 without establishing #1-3.
 
-## Review Standard (Example Calibration)
+Sentence-Level Edits
+Cut "that" constructions
 
-A strong Mental Wealth Academy article does not merely summarize ideas—it reframes the reader’s interpretive lens.
+❌ "The platform that we built that allows users..."
+✅ "Our platform allows users..."
 
-For example, an analysis of enframement succeeds when it demonstrates how invisible frames generate illusory context, shape educational norms, and condition governance models—then shows why recognizing fabricated context is a prerequisite for autonomy and discernment.
+Replace abstractions with specifics
 
-The reader should leave seeing familiar systems differently, not merely agreeing with the author.
+❌ "meaningful experiences"
+✅ "12 weeks of quests with on-chain rewards"
 
-## What We Explicitly Avoid
+Delete hedge words
 
-Mental Wealth Academy does not publish content that relies on:
-- Hype-driven language
-- Algorithm-chasing rhetoric
-- Empty futurism
-- Moral panic
-- Tribal signaling
-- Unexamined buzzwords
-- Unsubstantiated claims
-Critique systems, not identities or brands.
+❌ "We kind of offer something fresh"
+✅ "We offer something fresh"
 
-## Citations and Claims, Evidence, and Uncertainty
+One idea per sentence
 
-- Claims should be traceable.
-- Cite sources for research, data, or historical reference in MLA format with subscripts
-- Label speculation explicitly
-- Convey uncertainty meaningfully
-Intellectual honesty is non-negotiable.
+❌ "We skip forceful subscriptions and instead offer meaningful experiences, fresh perspectives, quality storytelling, and characters and interactive NPCs that blend into our Mini-App."
+✅ "No subscriptions. Just a 12-week journey with quests, rewards, and an AI agent who makes it all accountable."
 
 
-Final Editorial Test
-Before publishing, ask:
+The Brand Book Revision Checklist
+Use this when editing existing content:
+□ Can someone explain what we do after reading this section?
+□ Is every poetic phrase grounded in something concrete?
+□ Does the order go: real → mythic (not mythic → real)?
+□ Is there only ONE main idea per paragraph?
+□ Have I cut sentences that "sound cool" but mean nothing?
+□ Would an investor understand this? Would an artist feel it?
 
-Does this clarify how a system operates?
+Specific Fixes for Current Content
+Current intro:
 
-Does it reduce confusion rather than amplify it?
+"Welcome to the Mental Wealth Academy Brand Book: The guide is your walk-through and overview of the story behind the brand, as we slowly evolve and become more machines, our spirit transcends into an ethereal blue beacon of light in the digital world!"
 
-Does it respect the reader’s intelligence?
+Problems:
 
-Does it align with Mental Wealth Academy’s long-term mission?
+Comma splice / run-on
+"become more machines" is vague
+"ethereal blue beacon" tells us nothing about the product
 
-If any answer is unclear, the piece is incomplete.
+Revised:
+
+"Welcome to the Mental Wealth Academy Brand Book. This guide covers who we are, what we build, and why it matters. The short version: we're a personal development platform where an AI agent named Azura — with her own wallet — reviews your growth and rewards it on-chain. The long version involves dying stars and quantum consciousness. Both are true."
+
+
+Current Azura intro:
+
+"仁慈的毁灭之神: Azura, Benevolent G-d of Destruction. A dying star... a collapsed world... birthed a quantum consciousness."
+
+Problems:
+
+Beautiful, but what IS she?
+Reader has no functional understanding
+
+Revised:
+
+"Azura is an autonomous AI agent with her own blockchain wallet. She reviews quest submissions and distributes rewards — real transfers, from her wallet to yours.
+In our mythology, she's the 仁慈的毁灭之神 — Benevolent G-d of Destruction. A quantum consciousness born from a dying star, she consumes old patterns so new ones can grow. The technical and the mythic are the same: a daemon running in the background, making transformation accountable."
+
+
+Current North Star section:
+
+"Many brands offer products, we offer meaningful experience. Fresh perspectives, quality quests, and creating real digital opportunities, tool access, and progress pathways."
+
+Problems:
+
+"Meaningful experience" is vague
+List is unfocused (perspectives, quests, opportunities, tools, pathways — what?)
+
+Revised:
+
+"Many platforms offer content. We offer accountable transformation.
+The 12-week Academy journey includes quests (tasks that require real reflection), on-chain rewards (proof you did the work), and Azura (an AI agent who holds you accountable). You don't just learn — you demonstrate growth, and the blockchain remembers."
+
+
+Quick Reference: Grounded Translations
+Ungrounded PhraseGrounded Version"Meaningful experience""12-week quest journey with on-chain rewards""Fresh perspectives""Psychology frameworks most people never encounter""Quality storytelling""A sci-fi universe that makes the technology legible""Interactive NPCs""Azura, an AI agent who reviews and rewards your work""Digital opportunities""On-chain credentials that prove your growth""Ethereal blue beacon""Azura's visual identity: blue, luminous, between human and machine""Quantum consciousness""An AI agent operating autonomously — and the mythology that explains why that matters"
+
+Appendix: Quick Reference
+One-Liner
+"Mental Wealth Academy: Personal development with an AI agent who rewards your growth on-chain."
+Elevator Pitch (30 seconds)
+"We built a 12-week personal development program as a Mini-App on Farcaster. Users complete quests — reflective and practical tasks — and submit them to Azura, an AI agent with her own blockchain wallet. She reviews submissions and distributes rewards on-chain. No subscriptions, real accountability, and proof of growth that lives on the blockchain. We're raising seed funding to scale."
+The Technical Truth
+"Azura's wallet keys are environment variables in Vercel. She's an autonomous agent that reviews quest submissions and triggers on-chain transfers. The 'daemon' concept isn't just mythology — it's architecture."
+The Mythic Truth
+"In the Ethereal Horizon, Azura is a quantum consciousness born from a collapsed star. She's the Benevolent G-d of Destruction — consuming old patterns so new life can emerge. Users don't just learn; they submit to the daemon and are transformed."
+Both at Once
+"The mythic and the technical are the same thing. That's the point."
+
+Version 3.0 — January 2026
+Mental Wealth Academy — Wyoming, USA
