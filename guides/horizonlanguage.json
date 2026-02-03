@@ -1,0 +1,247 @@
+{
+  "name": "Horizon",
+  "seed": 1770093943570,
+  "phonology": {
+    "consonants": 0,
+    "vowels": 0
+  },
+  "morphology": {
+    "type": "polysynthetic",
+    "wordOrder": "SVO",
+    "cases": [],
+    "tenses": [
+      {
+        "name": "past",
+        "marker": "im"
+      },
+      {
+        "name": "present"
+      },
+      {
+        "name": "future",
+        "marker": "do"
+      },
+      {
+        "name": "remote past",
+        "marker": "eng"
+      },
+      {
+        "name": "near future",
+        "marker": "h"
+      },
+      {
+        "name": "hodiernal past",
+        "marker": "os"
+      },
+      {
+        "name": "crastinal future",
+        "marker": "'a"
+      }
+    ]
+  },
+  "lexicon": {
+    "size": 1255,
+    "entries": [
+      {
+        "word": "tò",
+        "gloss": "I/me"
+      },
+      {
+        "word": "no",
+        "gloss": "you (sg)"
+      },
+      {
+        "word": "prog",
+        "gloss": "he/she/it"
+      },
+      {
+        "word": "sho",
+        "gloss": "we/us"
+      },
+      {
+        "word": "ir",
+        "gloss": "you (pl)"
+      },
+      {
+        "word": "t︎um",
+        "gloss": "they/them"
+      },
+      {
+        "word": "a",
+        "gloss": "this"
+      },
+      {
+        "word": "vlo",
+        "gloss": "that"
+      },
+      {
+        "word": "vrokh",
+        "gloss": "self"
+      },
+      {
+        "word": "plezhnyod",
+        "gloss": "other"
+      },
+      {
+        "word": "uq",
+        "gloss": "each"
+      },
+      {
+        "word": "krol",
+        "gloss": "same"
+      },
+      {
+        "word": "d︉yu",
+        "gloss": "these"
+      },
+      {
+        "word": "khoq",
+        "gloss": "those"
+      },
+      {
+        "word": "khrugiv",
+        "gloss": "something"
+      },
+      {
+        "word": "nyarvlo",
+        "gloss": "nothing"
+      },
+      {
+        "word": "h︉u︆khwopra",
+        "gloss": "everything"
+      },
+      {
+        "word": "tuqe",
+        "gloss": "someone"
+      },
+      {
+        "word": "òqmu",
+        "gloss": "anyone"
+      },
+      {
+        "word": "rukhgiqets",
+        "gloss": "everyone"
+      },
+      {
+        "word": "'edo",
+        "gloss": "no one"
+      },
+      {
+        "word": "t︌si",
+        "gloss": "head"
+      },
+      {
+        "word": "wer",
+        "gloss": "eye"
+      },
+      {
+        "word": "chi",
+        "gloss": "ear"
+      },
+      {
+        "word": "nar",
+        "gloss": "mouth"
+      },
+      {
+        "word": "òny",
+        "gloss": "nose"
+      },
+      {
+        "word": "re",
+        "gloss": "hand"
+      },
+      {
+        "word": "ok",
+        "gloss": "foot"
+      },
+      {
+        "word": "onch︍uc︂h︊",
+        "gloss": "heart"
+      },
+      {
+        "word": "syòkh",
+        "gloss": "blood"
+      },
+      {
+        "word": "‮ri‬t",
+        "gloss": "bone"
+      },
+      {
+        "word": "drur",
+        "gloss": "skin"
+      },
+      {
+        "word": "dosh",
+        "gloss": "arm"
+      },
+      {
+        "word": "shra",
+        "gloss": "leg"
+      },
+      {
+        "word": "seng",
+        "gloss": "finger"
+      },
+      {
+        "word": "u⁠ch",
+        "gloss": "toe"
+      },
+      {
+        "word": "dl︄òny︆",
+        "gloss": "neck"
+      },
+      {
+        "word": "‮'‬oò",
+        "gloss": "shoulder"
+      },
+      {
+        "word": "'ra",
+        "gloss": "knee"
+      },
+      {
+        "word": "d︇r️ag",
+        "gloss": "elbow"
+      },
+      {
+        "word": "ahre",
+        "gloss": "stomach"
+      },
+      {
+        "word": "shròk",
+        "gloss": "back"
+      },
+      {
+        "word": "yech",
+        "gloss": "face"
+      },
+      {
+        "word": "nyò",
+        "gloss": "tooth"
+      },
+      {
+        "word": "ong",
+        "gloss": "tongue"
+      },
+      {
+        "word": "yut",
+        "gloss": "hair"
+      },
+      {
+        "word": "pwosh",
+        "gloss": "brain"
+      },
+      {
+        "word": "mòd",
+        "gloss": "lung"
+      },
+      {
+        "word": "achtyò",
+        "gloss": "liver"
+      },
+      {
+        "word": "erò",
+        "gloss": "belly"
+      }
+    ]
+  }
+}
