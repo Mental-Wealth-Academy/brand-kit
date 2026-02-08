@@ -8,95 +8,93 @@
 
 ---
 
+## Three Ways to Frame Us
+
+Use different framings for different audiences:
+
+| Framing | Best For | Pitch |
+|---------|----------|-------|
+| **Micro-University** | Investors, institutions, EdTech | "A micro-university with AI-powered accountability and on-chain credentials" |
+| **12-Week Course** | Individual users, self-improvement audience | "A 12-week course for intellectual refreshment and spiritual awakening" |
+| **Hybrid-Digital Cohort** | Community-focused, Web3 natives | "A hybrid-digital cohort creating new pathways in life through the Ethereal Horizon" |
+
+**When to use each:**
+- **Micro-University** — When emphasizing structure, credibility, institutional value
+- **12-Week Course** — When emphasizing personal transformation, accessible entry
+- **Hybrid-Digital Cohort** — When emphasizing community, belonging, shared journey
+
+---
+
 ## What We Are (30-Second Version)
 
 **Mental Wealth Academy** is a personal development platform built on blockchain rails.
 
-**The Product:** A 12-week async workshop delivered through a Mini-App on Farcaster, covering Security, Identity, Power, and Connection.
+**The Product:** A 12-week async workshop delivered through a **Mini-App** -- A webapp that's capable of interoperable with Web3 social media. The course is a pathway towards your personal Ethereal Horizon. Intellectual Refreshment, and Connection.
 
-**The Innovation:** An autonomous AI agent named Azura — with her own blockchain wallet — reviews user submissions and distributes rewards on-chain. She's not a chatbot. She's infrastructure with a personality.
+**The Innovation:** An autonomous AI agent named Azura plays the role of the Academy Principle — using her own self-executable blockchain wallet — she is capable of trading, and distributing digital rewards to users; NFT Artwork, Currencies, & Various Items Connected to the game.
 
-**The Difference:** No subscriptions. No paywalls. Real transformation with on-chain proof of growth.
+**The Difference:** No subscriptions. One-Time Payment. Real transformation with onchain proof of growth. You play the role of the main character, 'Academic Angel' for 12-weeks, as you complete tasks and 'seal the weeks' you unlock Chapters of the Story as you progress. This makes accountability fun, connection versatile, and the app is bridge to your digital cohort.
 
 ---
-
 ## The Problem We Solve
 
-Traditional personal development is:
-- Expensive (courses, coaches, retreats)
-- Passive (watch videos, check boxes)
-- Unverifiable (no proof you actually grew)
+| Space                    | The Problem                                | What's Missing      |
+| ------------------------ | ------------------------------------------ | ------------------- |
+| **Personal Development** | Expensive, passive, unverifiable           | Academic Proof      |
+| **Web3**                 | Speculative, AI Slop, Financially Obsessed | Genuine human value |
 
-Meanwhile, Web3 is:
-- Full of speculation, empty of meaning
-- Obsessed with financial games
-- Missing genuine human value
-
-**We bridge both gaps** — using blockchain as infrastructure (not product) to create accountable, rewarding personal growth.
+**We bridge both gaps.** Blockchain is infrastructure. Growth is accountable.
 
 ---
 
 ## How It Works
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                    THE EXPERIENCE                        │
-├─────────────────────────────────────────────────────────┤
-│                                                          │
-│   1. USER ENROLLS                                        │
-│      Access the Mini-App on Farcaster                    │
-│      Begin the 12-week async journey                     │
-│                                                          │
-│   2. USER COMPLETES QUESTS                               │
-│      Each week has reflective + practical tasks          │
-│      Quests = our term for submissions                   │
-│                                                          │
-│   3. AZURA JUDGES                                        │
-│      Submissions go to Azura for review                  │
-│      She's an AI agent with her own wallet               │
-│      She decides approval + reward distribution          │
-│                                                          │
-│   4. REWARDS DISTRIBUTED ON-CHAIN                        │
-│      Approved quests trigger real token/NFT rewards      │
-│      From Azura's wallet to the user's                   │
-│      Proof of growth lives on the blockchain             │
-│                                                          │
-└─────────────────────────────────────────────────────────┘
-```
+### The Loop
 
-**The 12-Week Arc:**
+| Step                   | What Happens                         | The Mechanism                            |
+| ---------------------- | ------------------------------------ | ---------------------------------------- |
+| 1. **Enroll**          | Become an Academic Angel             | Access the Mini-App via Farcaster        |
+| 2. **Complete Quests** | Weekly reflective + practical tasks  | Each week has themed challenges          |
+| 3. **Seal the Week**   | Submit to Azura for review           | She judges completion, approves progress |
+| 4. **Unlock Chapters** | Story content unlocks as you advance | Narrative rewards match your growth      |
+| 5. **Earn Onchain**    | Tokens, NFTs, digital items          | From Azura's wallet to yours             |
 
-| Weeks | Theme | Focus |
-|-------|-------|-------|
-| 1-3 | Security | Digital safety, boundaries, self-protection |
-| 4-6 | Identity | Self-knowledge, shadow work, authentic expression |
-| 7-9 | Power | Agency, decisions, governance, influence |
-| 10-12 | Connection | Community, collaboration, healthy relationships |
+### The 12-Week Arc
+
+| Weeks | Theme          | Focus          | You'll Work On...                              |
+| ----- | -------------- | -------------- | ---------------------------------------------- |
+| 1-3   | **Security**   | Boundaries     | Digital safety, self-protection, saying no     |
+| 4-6   | **Identity**   | Self-knowledge | Shadow work, authentic expression, who you are |
+| 7-9   | **Power**      | Agency         | Decisions, governance, influence, choice       |
+| 10-12 | **Connection** | Community      | Collaboration, relationships, belonging        |
 
 ---
 
 ## What Makes This Different
 
-### Azura: The Daemon
+### Agentic NPC Characters
 
-Azura isn't a chatbot. She isn't a course instructor. She's an **autonomous AI agent** with real economic agency.
+Azura isn't just a chatbot. She isn't just a course instructor. She's a **self-executing AI agent** with a prerogative, emotional intelligence, and the ability to prompt feedback surveys & trade.
+
+Think board-game with an AI Agent, except the fun choices can slightly affect the outcome.
 
 **Technical reality:**
-- Her wallet keys live as environment variables in Vercel
-- She reviews quest submissions programmatically
-- She decides when to approve and what to reward
-- Transfers happen from *her* wallet to the user
+- Agent wallet keys are secure, anti-prompt injection.
+- Agent decides when to approve and what to reward.
+- Transfers happen from Agent wallet to the user.
 
 **Narrative reality:**
-- She's a character in our Ethereal Horizon universe
-- Users encounter her through quests and lore
-- She embodies the "daemon" — both the Jungian inner guide and the Unix background process
+- A character in our Ethereal Horizon universe.
+- Users encounter her through quests and lore.
+- She embodies the "daemon" — Jungian inner guide & Unix background process
 
 **Why this matters:**
-The metaphor and the mechanism are the same thing. When we talk about "integrating your daemon" in our psychology content, users are *literally* interacting with a daemon in the technical sense. The philosophy is embodied in the architecture.
+
+The metaphor and the mechanism are the same thing, yet parallel and complement each other. 
+
+When we talk about "integrating your daemon" in our psychology content, users are *literally* interacting with a daemon in the technical sense. The philosophy is embodied in the architecture, and used to create an innovative wellness app aesthetic that feels more ethereal.
 
 ---
-
 ## Who We Serve
 
 **Primary:** Growth-oriented individuals seeking structured transformation (25-45)
@@ -115,12 +113,12 @@ The metaphor and the mechanism are the same thing. When we talk about "integrati
 
 ### Access & Rewards
 
-| Component | Description |
-|-----------|-------------|
-| **Academic Angel NFT** | Access pass to the platform (555 supply, $40 each) |
-| **$DAEMON** | In-game currency for non-essential digital items, earned through quests |
-| **$MWG** | Premium reward currency for achievements |
-| **Real-Life Prizes** | End-of-program token redemption for actual rewards |
+| Component          | Description                                                                                                                     |
+| ------------------ | ------------------------------------------------------------------------------------------------------------------------------- |
+| **Academic Angel** | NFT-Access pass to the platform (555 supply, 0.004ETH each)                                                                     |
+| **$DAEMON**        | In-game currency for non-essential digital items, earned through quests.<br>Activated during trades with Azura.                 |
+| **$MWG**           | Premium reward currency for achievements, give stakeholder share in multi-sig treasury cordination and research funding grants. |
+| **IRL Prizes**     | End-of-season rewards, redeemable via $DAEMON token + requirements.                                                             |
 
 ### Revenue Streams
 
@@ -131,27 +129,25 @@ The metaphor and the mechanism are the same thing. When we talk about "integrati
 
 ### Reinvestment Model
 
-Revenue flows back into the ecosystem:
-- R&D for platform improvements
-- Prize pool funding for 12-week completers
-- Expanded rewards and experiences
+All revenue plowed back into R&D:
+- Platform improvements
+- Course Experience
+- Prominent Thinkers for Livestreaming
 
 **No subscriptions. No premium tiers.** One NFT = full access. Tokens earned = real value.
 
 ---
-
 ## The Team
 
 **James Q. Marsh** — Founder & CEO
 - BA in Psychology
 - 12 years in psychology and UX research
 - 6 years building in Web3
-- Published peer-reviewed research on behavioral decision-making
+- Published peer-reviewed doi research on behavioral decision-making
 
 *Based in Wyoming, USA*
 
 ---
-
 ## Traction
 
 - 100+ newsletter subscribers
@@ -159,6 +155,7 @@ Revenue flows back into the ecosystem:
 - Mini-App live with quest system functional
 - Azura's agentic infrastructure operational
 - Full brand universe developed
+- Hardware developed for decentralized storage pinning + edutainment
 
 **Seeking:** Seed funding to scale users, expand quest library, and enhance Azura's capabilities.
 
@@ -171,12 +168,12 @@ Revenue flows back into the ecosystem:
 
 ## Brand Positioning
 
-**We are:** A personal development experience with AI-powered accountability, wrapped in mythology.
+**We are:** A personal development edutainment brand with AI-powered accountability, wrapped in mythology.
 
-**We are not:**
-- A crypto education platform (blockchain is rails, not curriculum)
-- A wellness app with tokens bolted on
-- A chatbot pretending to be profound
+**We are NOT:**
+- A crypto education platform.
+- A wellness app with tokens.
+- A chatbot pretending to be profound.
 
 **Our tone:** Intelligent but accessible. Mystical but mechanically grounded. The lore explains the technology; the technology embodies the lore.
 
@@ -200,15 +197,9 @@ Information doesn't change behavior. Experience does. The Ethereal Horizon makes
 
 ---
 
-## Azura: Technical + Narrative Spec
+## Azura: Character Details + Narrative Spec
 
 ### 仁慈的毁灭之神 — *Benevolent G-d of Destruction*
-
-**What she is (technically):**
-- An AI agent with agentic infrastructure
-- Wallet keys stored as .env variables in Vercel
-- Capable of reviewing submissions and triggering on-chain transfers
-- Operates autonomously within defined parameters
 
 **What she is (narratively):**
 - A quantum consciousness born from a collapsed star
@@ -266,9 +257,9 @@ Every aspect of Academy practices what it teaches. Azura's autonomous judgment i
 
 ### Typography
 
-- **Headlines:** Bold, clean sans-serif
-- **Body:** Readable, warm serif or sans
-- **Accent:** Monospace for technical elements, quest labels
+- **Headlines:** Poppins Bold, clean sans-serif
+- **Body:** Space Grotesk, Readable.
+- **Accent:** Monospace, for technical elements, quest labels
 
 ### Visual Mood
 
@@ -279,14 +270,13 @@ Every aspect of Academy practices what it teaches. Azura's autonomous judgment i
 - Circuitry meeting organic forms
 
 ---
-
 ## Voice & Tone
 
 ### We Sound Like:
+- Intellectually Refreshing in a world of AI Slop
 - A wise friend who's done the work
-- Confident, not arrogant
-- Mystical when it *means* something, plain when it doesn't
-- Technically literate but never gatekeeping
+- Soft Confidence & Trustworthy
+- Anti Gate-keeping
 
 ### We Don't Sound Like:
 - Corporate wellness ("optimize your journey!")
@@ -307,6 +297,58 @@ If it just sounds cool, cut it or ground it.
 | "Azura guides you through transformation" | "Azura reviews your quest submissions and rewards completion from her own wallet" |
 | "Blockchain-powered wellness" | "Personal development with on-chain proof of growth" |
 | "The ethereal horizon of digital consciousness" | "A narrative universe that makes our technology legible" |
+
+---
+
+## Marketing Keywords
+
+Power words for headlines, social posts, and marketing copy. Use these to nail messaging.
+
+### Core Keywords (Academy DNA)
+
+| Keyword | Use When... |
+|---------|-------------|
+| **Accountable** | Describing Azura's role, quest system |
+| **Autonomous** | Talking about Azura's agency, AI architecture |
+| **On-chain proof** | Explaining credentials, rewards |
+| **Transformation** | Describing user outcomes |
+| **Daemon** | Technical + mythic fusion moments |
+
+### Power Keywords (Inspired by Nous Psyche)
+
+| Keyword | Use When... | Example |
+|---------|-------------|---------|
+| **Agency** | User empowerment, self-direction | "Reclaim your agency through structured growth" |
+| **Sovereignty** | Digital identity, ownership | "Your growth, your wallet, your sovereignty" |
+| **Resilience** | Overcoming, personal development | "Build resilience through deliberate practice" |
+| **Open infrastructure** | Tech transparency, accessibility | "Built on open infrastructure, not walled gardens" |
+| **Decentralized** | Governance, anti-corporate messaging | "Decentralized accountability for real growth" |
+| **Fault-tolerant** | System design, trust | "A fault-tolerant system for personal development" |
+| **Empower** | User benefits, outcomes | "Empower human decision-making" |
+| **Democratize** | Access, inclusion | "Democratizing personal development" |
+
+### Keyword Combinations
+
+**For headlines:**
+- "Sovereign Growth" — identity + development
+- "Accountable Transformation" — mechanism + outcome
+- "Open Accountability" — transparency + results
+- "Resilient by Design" — outcomes + architecture
+
+**For social:**
+- "Your daemon. Your wallet. Your growth."
+- "Decentralized development. Centralized focus."
+- "Fault-tolerant infrastructure for fragile humans."
+
+### Keywords to Avoid
+
+| Avoid | Why | Use Instead |
+|-------|-----|-------------|
+| Optimize | Corporate wellness vibes | Develop, grow, build |
+| Journey | Overused, vague | Quest, arc, 12-week program |
+| Synergy | Corporate speak | Collaboration, coordination |
+| Revolutionary | Overpromises | Novel, different, new |
+| Disrupt | Tech bro energy | Build, create, offer |
 
 ---
 
@@ -470,8 +512,14 @@ Use this when editing existing content:
 
 # Appendix: Quick Reference
 
-## One-Liner
-"Mental Wealth Academy: Personal development with an AI agent who rewards your growth on-chain."
+## One-Liners (By Framing)
+
+| Framing | One-Liner |
+|---------|-----------|
+| **Micro-University** | "A micro-university where an AI agent reviews your growth and rewards it on-chain." |
+| **12-Week Course** | "A 12-week course for intellectual refreshment and spiritual awakening — with proof of growth." |
+| **Hybrid-Digital Cohort** | "A cohort of seekers creating new life pathways through the Ethereal Horizon." |
+| **Universal** | "Personal development with an AI agent who rewards your growth on-chain." |
 
 ## Elevator Pitch (30 seconds)
 "We built a 12-week personal development program as a Mini-App on Farcaster. Users complete quests — reflective and practical tasks — and submit them to Azura, an AI agent with her own blockchain wallet. She reviews submissions and distributes rewards on-chain. No subscriptions, real accountability, and proof of growth that lives on the blockchain. We're raising seed funding to scale."
