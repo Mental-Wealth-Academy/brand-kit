@@ -14,36 +14,36 @@ Use different framings for different audiences:
 
 | Framing | Best For | Pitch |
 |---------|----------|-------|
-| **Micro-University** | Investors, institutions, EdTech | "A micro-university with AI-powered accountability and on-chain credentials" |
-| **12-Week Course** | Individual users, self-improvement audience | "A 12-week course for intellectual refreshment and spiritual awakening" |
-| **Hybrid-Digital Cohort** | Community-focused, Web3 natives | "A hybrid-digital cohort creating new pathways in life through the Ethereal Horizon" |
+| **DeSci Researchers** | Investors, Institutions, Academia | "A digital case-study on parasocial interactions in an AI environment." |
+| **An iOS App** | Individual users, Self-improvement audience | "An app to intellectual refresh, and awaken your inner-artist." |
+| **Academic Cohort** | Community-focused, Web3 natives | "An academic cohort utilizing AI tools for research and testing." |
 
 **When to use each:**
-- **Micro-University** — When emphasizing structure, credibility, institutional value
-- **12-Week Course** — When emphasizing personal transformation, accessible entry
-- **Hybrid-Digital Cohort** — When emphasizing community, belonging, shared journey
+- **DeSci Cohort** — When emphasizing structure, credibility, and institutional value.
+- **An iOS App** — When emphasizing personal transformation, accessible entry.
+- **Academic Cohort** — When emphasizing community, belonging, shared acomplishments.
 
 ---
 
 ## What We Are (30-Second Version)
 
-**Mental Wealth Academy** is a personal development platform built on blockchain rails.
+**Mental Wealth Academy** is a cohort of artists & scientists making new-age case studies through Mobile Apps, while communicating through a DAO Dashboard.
 
-**The Product:** A 12-week async workshop delivered through a **Mini-App** -- A webapp that's capable of interoperable with Web3 social media. The course is a pathway towards your personal Ethereal Horizon. Intellectual Refreshment, and Connection.
+**The Product:** An AI known as B.L.U.E. Blue is capable of long-term memory, relationship-context, and is trained on data derrived from company case-studies which creates unique outcomes on data created solely to improve her effectiveness in mental health scenarios.
 
-**The Innovation:** An autonomous AI agent named Azura plays the role of the Academy Principle — using her own self-executable blockchain wallet — she is capable of trading, and distributing digital rewards to users; NFT Artwork, Currencies, & Various Items Connected to the game.
+**The Innovation:** All apps and reward mechanisms using Blue operate on the same point-system, which means points earned in one case-study, are also earnable in other case-study apps as well. Using Blockchain, we treat apps as "disposable laboratories" case-studies designed to generate insights and data, then replaced when they’ve served their purpose. What endures is the value created inside them: each app’s point system and digital economy can remain intact, transparent, and user-owned through smart contracts and cryptography.
 
-**The Difference:** No subscriptions. One-Time Payment. Real transformation with onchain proof of growth. You play the role of the main character, 'Academic Angel' for 12-weeks, as you complete tasks and 'seal the weeks' you unlock Chapters of the Story as you progress. This makes accountability fun, connection versatile, and the app is bridge to your digital cohort.
+**The Difference:** Instead of leaving people as isolated users or paid test subjects, they become stakeholders in the ecosystems they help create. Blockchain preserves the digital assets, while blue retains the memory of contribution, reputation, and relationship context over time.
 
 ---
 ## The Problem We Solve
 
-| Space                    | The Problem                                | What's Missing      |
-| ------------------------ | ------------------------------------------ | ------------------- |
-| **Personal Development** | Expensive, passive, unverifiable           | Academic Proof      |
-| **Web3**                 | Speculative, AI Slop, Financially Obsessed | Genuine human value |
+| Space                    | The Problem                                | What's Missing                       |
+| ------------------------ | ------------------------------------------ | ------------------------------------ |
+| **Traditional Testing**  | Expensive, Demanding, Isolating            | A Bridge to Continuous Ownership     |
+| **Traditional DeSci**    | Speculative, Unoriginal, Misguided         | Domain Mastery of Multiple Subjects  |
 
-**We bridge both gaps.** Blockchain is infrastructure. Growth is accountable.
+**We bridge both gaps.** Our Tripartite Model of Foundation separates ownership-levels. We've mastered the art of digital currency, economics, blockchain, cyber-culture, psychology, sociology, science, and packaged it all together a world class project built for longevity. 
 
 ---
 
@@ -53,11 +53,11 @@ Use different framings for different audiences:
 
 | Step                   | What Happens                         | The Mechanism                            |
 | ---------------------- | ------------------------------------ | ---------------------------------------- |
-| 1. **Enroll**          | Become an Academic Angel             | Access the Mini-App via Farcaster        |
-| 2. **Complete Quests** | Weekly reflective + practical tasks  | Each week has themed challenges          |
-| 3. **Seal the Week**   | Submit to Azura for review           | She judges completion, approves progress |
+| 1. **Enroll**          | Become an Academic Angel             | Access the Cohort via Email Invitation   |
+| 2. **Complete Quests** | Weekly reflective + practical tasks  | Weekly themed challenges & prizes        |
+| 3. **Seal the Week**   | Submit to Blue for review            | She judges completion, approves progress |
 | 4. **Unlock Chapters** | Story content unlocks as you advance | Narrative rewards match your growth      |
-| 5. **Earn Onchain**    | Tokens, NFTs, digital items          | From Azura's wallet to yours             |
+| 5. **Earn Onchain**    | Tokens, NFTs, digital items          | From Blue's wallet to yours              |
 
 ### The 12-Week Arc
 
