@@ -1,9 +1,3 @@
-# Mental Wealth Academy
-## Brand Book v3.0
-
----
-
-# Part 1: The Essentials
 *For investors, partners, and new team members*
 
 ---
