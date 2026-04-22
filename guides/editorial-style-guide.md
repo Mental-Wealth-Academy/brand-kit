@@ -8,7 +8,7 @@ Use different framings for different audiences:
 
 | Framing | Best For | Pitch |
 |---------|----------|-------|
-| **DeSci Researchers** | Investors, Institutions, Academia | "A digital case-study on parasocial interactions in an AI environment." |
+| **DeSci Research** | Investors, Institutions, Academia | "A digital case-study on parasocial interactions in an AI environment." |
 | **An iOS App** | Individual users, Self-improvement audience | "An app to intellectual refresh, and awaken your inner-artist." |
 | **Academic Cohort** | Community-focused, Web3 natives | "An academic cohort utilizing AI tools for research and testing." |
 
